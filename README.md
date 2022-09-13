@@ -20,6 +20,7 @@
 <a href="https://sqlmap.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Sqlmap_logo.png" alt="hcia" width="40" height="40"/> </a>  
 <a href="https://www.zaproxy.org/" target="_blank" rel="noreferrer"> <img src="https://www.kali.org/tools/zaproxy/images/zaproxy-logo.svg" alt="hcia" width="40" height="40"/> </a>  
 <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> 
+<a href="http://www.ollydbg.de/" target="_blank" rel="noreferrer"> <img src="https://www.kali.org/tools/ollydbg/images/ollydbg-logo.svg" alt="hcia" width="40" height="40"/> </a>
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer <imgsrc="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> 
 <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> 
